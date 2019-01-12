@@ -12,7 +12,7 @@ I greatly encourage any contributions.
 <img src= '/shots/R_A_F~Connecting~.png' width= 400>     <img src= 'shots//R_A_F~Home~.png' width= 400>
 
 ## Getting started
-1. `git clone `
+1. `git clone https://github.com/The-fixXxer/R.A.F_Remote-Access-Framework_.git`
 2. `cd R.A.F_Remote-Access-Framework_`
 3. `python3 R_A_F.py`
 
