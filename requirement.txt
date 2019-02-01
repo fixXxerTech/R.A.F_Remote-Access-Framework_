@@ -1,5 +1,3 @@
 psutil
-zipfile
-platform
 termcolor
 pyinstaller
