@@ -171,7 +171,7 @@ CLIENT_COMMANDS=colored('''--------------------[ CLIENT_INTERACTION_COMMANDS ]--
 ||
 || firewall    : [ This will enable/disable network firewall on client machine[only when Tower is admin use 'escalate' first], 
 ||			 
-||    Usage-- > 'firewall  <activate>' OR 'firewall  <deactive>' OR 'firwall  <status>' ]
+||    Usage-- > 'firewall  <activate>' OR 'firewall  <deactivate>' OR 'firwall  <status>' ]
 ||
 || escalate    : [ This will attempt to grant Tower admin privilege on client [required for 'rdp' and 'firewall' commands to work] ]
 ||
