@@ -2,6 +2,13 @@
 
 # R.A.F_Remote_Access_Framework_
 Python Remote Access Tool [ Not Trojan ].
+![Version](https://img.shields.io/badge/R.A.F-v1.0-green.svg)
+![Python-version](https://img.shields.io/badge/Python--version-3.5%7C3.6%7C3.7-blue.svg)
+![Release](https://img.shields.io/badge/Release-Stable-brightgreen.svg)
+![Platforms](https://img.shields.io/badge/Supported%20OS-Linux%20%7C%20Windows%2010-lightgrey.svg)
+![Licence](https://img.shields.io/badge/Licence-GPL--3.0-yellow.svg)
+
+***
 
 # Overview
 
@@ -21,7 +28,7 @@ I greatly encourage any contributions.
 
 
 ## Getting started
-1. `git clone `
+1. `git clone https://github.com/The-fixXxer/R.A.F_Remote-Access-Framework_.git`
 2. `cd R.A.F_Remote-Access-Framework_`
 3. `python3 R_A_F.py`
 
@@ -35,6 +42,8 @@ R.A.F is written in python 3.6 therefore you'll have to run with pytnon3
 
 * **psutil**  
 * **termcolor**
+
+Run: `pip install -r requirement.txt` to install external libraries.
 
 ## Usage
 
